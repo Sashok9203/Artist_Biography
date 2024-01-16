@@ -21,8 +21,6 @@ namespace ArtistBiography.Controllers
             new("Огастіна Сегаторі 1887 p.","Виставлена в музеї ван Гога, Амстердам","https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vincent_van_Gogh_-_In_the_caf%C3%A9_-_Agostina_Segatori_in_Le_Tambourin_-_Google_Art_Project_2.jpg/800px-Vincent_van_Gogh_-_In_the_caf%C3%A9_-_Agostina_Segatori_in_Le_Tambourin_-_Google_Art_Project_2.jpg"),
             new("Дорога біля Арля 1888 p.","Виставлена в померанському державному музеї, Грайфсвальд","https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Van_Gogh_-_Allee_bei_Arles_mit_H%C3%A4usern.jpeg/800px-Van_Gogh_-_Allee_bei_Arles_mit_H%C3%A4usern.jpeg"),
             new("Соняшники 1888 p.","Виставлена в музеї Нова Пінакотека, Мюнхен","https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vincent_Willem_van_Gogh_128.jpg/800px-Vincent_Willem_van_Gogh_128.jpg"),
-            new("Захід сонця біля Монмажур 1888 p.","Виставлена в музеї ван Гога, Амстердам","https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sunset_at_Montmajour_1888_Van_Gogh.jpg/1280px-Sunset_at_Montmajour_1888_Van_Gogh.jpg"),
-            new("Спальня в Арлі 1888 p.","Виставлена в музеї ван Гога, Амстердам","https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vincent_Willem_van_Gogh_137.jpg/1280px-Vincent_Willem_van_Gogh_137.jpg"),
             new("Автопортрет 1889 p.","Виставлена в музеї д'Орсе, Париж","https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SelbstPortrait_VG2.jpg/800px-SelbstPortrait_VG2.jpg")
         };
         public HomeController(ILogger<HomeController> logger)

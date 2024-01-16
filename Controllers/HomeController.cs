@@ -7,6 +7,7 @@ namespace ArtistBiography.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+
         private Picture[] pictures =
         {
             new("Сіяч 1881 p.","Виставлена в музеї Креллер-Мюллер, Оттерло","https://upload.wikimedia.org/wikipedia/commons/5/5a/Van_Gogh_1881-04%2C_Etten_-_Sower_%28after_Millet%29_F_830_JH_1.jpg"),
